@@ -1,0 +1,6 @@
+node_modules/
+.next/
+.env
+.env.local
+backend/uploads/curriculos/*
+!backend/uploads/curriculos/.gitkeep
